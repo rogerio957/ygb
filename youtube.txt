@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 group-title=1
+https://cdn77-vid.xvideos-cdn.com/uxG1no5LYN-U8qDWZWmSCw==,1656116143/videos/hls/14/b0/07/14b007c6273eca4e0706bc3b90678a61/hls-1080p-13fb0.m3u8
+#EXTINF:-1 group-title=2
+https://cdn77-vid.xvideos-cdn.com/anMPLJ6b-ioIEB-rjBUwIw==,1656116283/videos/hls/03/0b/8d/030b8dafc163eb006361e30418aa5745/hls-720p.m3u8
+#EXTINF:-1 group-title=3
+https://cdn77-vid.xvideos-cdn.com/YhwuSgm_UKhVSN3rVFbyZQ==,1656116359/videos/hls/7f/49/08/7f4908793381fc257f78f938bfbc1a61/hls-360p.m3u8
+#EXTINF:-1 group-title=4
+https://cdn77-vid.xvideos-cdn.com/-ai8ju1qviVizfQkOBr9Pw==,1656116429/videos/hls/57/ee/0c/57ee0c68fffcb011d036a97f5c4b6747/hls-360p.m3u8
+#EXTINF:-1 group-title=5
+https://hls-hw.xvideos-cdn.com/videos/hls/de/62/1c/de621c2d28b72d16e1cc98c4757dc881/hls-360p.m3u8?e=1656116516&l=0&h=0234c352365f55750fde0f36b57cafc3
+#EXTINF:-1 group-title=6
+https://hls-hw.xvideos-cdn.com/videos/hls/09/47/27/0947279f213dfb7940588e312fab8db8/hls-360p.m3u8?e=1656116576&l=0&h=00f7e93c7f64b38335ca403346a4b301
+#EXTINF:-1 group-title=7
+https://hls-hw.xvideos-cdn.com/videos/hls/5e/19/3e/5e193e50bcbd5278b7f942c73e08bfa7-1/hls-720p.m3u8?e=1656116635&l=0&h=5071be2202deca7470403994b1f87667
+#EXTINF:-1 group-title=8
+https://cdn77-vid.xvideos-cdn.com/zy78FGlIHW0-ZSnbu-fBlw==,1656116847/videos/hls/45/f3/41/45f341b0ed142424021ec0e6a573f1ba-1/hls-1080p-68f02.m3u8https://hls4-l3.xvideos-cdn.com/42a42bb1b6651d9341a8fbbb3fd0297f53e75e5e-1656116995/videos/hls/af/1a/02/af1a02c61613fc844b805de05a36e6d4-1/hls-1080p-57460.m3u8https://hls-hw.xvideos-cdn.com/videos/hls/cb/a0/b8/cba0b8f9eced5aaaa4df942ddd7e8c6d-1/hls-720p.m3u8?e=1656117120&l=0&h=7d7cd15370f0f713d494ee32062cff10https://cdn77-vid.xvideos-cdn.com/06oTZFZMrwsVtBDqn6MKmw==,1656117222/videos/hls/35/62/e6/3562e6ca26bf8bd517d52309b75836bd/hls-360p.m3u8
+#EXTINF:-1 group-title=9
